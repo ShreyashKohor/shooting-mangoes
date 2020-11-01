@@ -1,1 +1,2 @@
-# shooting-mangoes
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
